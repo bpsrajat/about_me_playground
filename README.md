@@ -1,5 +1,5 @@
 # about_me_playground
-Its a Playround Application which i created for Apple's WWDC 2017.
+Its a Playround Application created for Apple's WWDC 2017.
 
 For the whole app, the main screen size is set to width: 700 and height: 450. While developing it, To create the views and manage the application i used the UIKit which enables the user interaction and has event handling structure to handle the users input, For user interaction and wanted to have a control over my live view i used PlaygroundSupport Framework Also for the game part used UIAnimations, structures, shapes to include it,used QuartzCore Framework,
 
